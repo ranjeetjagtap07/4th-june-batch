@@ -1,0 +1,39 @@
+2022-10-19 00:19:48,342  INFO [main] SauceDemoMaven:43 - browser is opened
+2022-10-19 00:19:48,510  INFO [main] SauceDemoMaven:47 - browser is maximized
+2022-10-19 00:19:51,006  INFO [main] SauceDemoMaven:51 - Sauce demo url is opened
+2022-10-19 00:19:51,523  INFO [main] SauceDemoMaven:63 - username is entered
+2022-10-19 00:19:51,692  INFO [main] SauceDemoMaven:66 - password is entered
+2022-10-19 00:19:51,916  INFO [main] SauceDemoMaven:70 - clicked on login button
+2022-10-19 00:19:52,465  INFO [main] SauceDemoMaven:21 - apply the validation
+2022-10-19 00:19:53,237  INFO [main] SauceDemoMaven:81 - browser is closed
+2022-10-19 00:19:53,307  INFO [main] SauceDemoMaven:83 - end of program
+2022-10-19 00:19:56,711  INFO [main] SauceDemoMaven:43 - browser is opened
+2022-10-19 00:19:56,875  INFO [main] SauceDemoMaven:47 - browser is maximized
+2022-10-19 00:20:00,776  INFO [main] SauceDemoMaven:51 - Sauce demo url is opened
+2022-10-19 00:20:01,095  INFO [main] SauceDemoMaven:63 - username is entered
+2022-10-19 00:20:01,233  INFO [main] SauceDemoMaven:66 - password is entered
+2022-10-19 00:20:01,424  INFO [main] SauceDemoMaven:70 - clicked on login button
+2022-10-19 00:20:02,461  INFO [main] SauceDemoMaven:27 - apply the validation
+2022-10-19 00:20:02,667  INFO [main] SauceDemoMaven:81 - browser is closed
+2022-10-19 00:20:02,668  INFO [main] SauceDemoMaven:83 - end of program
+2022-10-19 00:20:04,448  INFO [main] SauceDemoMaven:43 - browser is opened
+2022-10-19 00:20:04,631  INFO [main] SauceDemoMaven:47 - browser is maximized
+2022-10-19 00:20:08,449  INFO [main] SauceDemoMaven:51 - Sauce demo url is opened
+2022-10-19 00:20:08,805  INFO [main] SauceDemoMaven:63 - username is entered
+2022-10-19 00:20:08,981  INFO [main] SauceDemoMaven:66 - password is entered
+2022-10-19 00:20:09,164  INFO [main] SauceDemoMaven:70 - clicked on login button
+2022-10-19 00:20:10,154  INFO [main] SauceDemoMaven:24 - Bag product will get selected
+2022-10-19 00:20:10,583  INFO [main] SauceDemoMaven:36 - validation
+2022-10-19 00:20:10,899  INFO [main] SauceDemoMaven:81 - browser is closed
+2022-10-19 00:20:10,900  INFO [main] SauceDemoMaven:83 - end of program
+2022-10-19 00:20:12,105  INFO [main] SauceDemoMaven:43 - browser is opened
+2022-10-19 00:20:12,237  INFO [main] SauceDemoMaven:47 - browser is maximized
+2022-10-19 00:20:16,196  INFO [main] SauceDemoMaven:51 - Sauce demo url is opened
+2022-10-19 00:20:16,528  INFO [main] SauceDemoMaven:63 - username is entered
+2022-10-19 00:20:16,672  INFO [main] SauceDemoMaven:66 - password is entered
+2022-10-19 00:20:16,823  INFO [main] SauceDemoMaven:70 - clicked on login button
+2022-10-19 00:20:17,831  INFO [main] SauceDemoMaven:21 - All product will get selected
+2022-10-19 00:20:18,131  INFO [main] SauceDemoMaven:31 - Actual Product = 6
+2022-10-19 00:20:18,132  INFO [main] SauceDemoMaven:33 - validation
+2022-10-19 00:20:18,494  INFO [main] SauceDemoMaven:81 - browser is closed
+2022-10-19 00:20:18,495  INFO [main] SauceDemoMaven:83 - end of program
